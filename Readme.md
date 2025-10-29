@@ -5,6 +5,14 @@ This project is perfect for beginners exploring **Solidity**, **smart contracts*
 
 ---
 
+## 🖼️ Screenshot
+
+Here’s what the project looks like in action 👇  
+
+![Guess The Suit Screenshot](Screenshot%202025-10-29%20153059.png)
+
+---
+
 ## 🧩 Project Description
 
 **GuessTheSuit** is a Solidity smart contract that simulates a simple card-guessing game on the blockchain.  
@@ -40,9 +48,9 @@ It’s a great example to learn about enums, mappings, events, and basic randomn
 
 ## 📜 Deployed Smart Contract
 
-**Network:** Celo (or any EVM-compatible testnet)  
+**Network:** Ethereum (or any EVM-compatible testnet)  
 **Contract Address:** `0x637Ecdac85902d1A601A49c7E7D7e0d9f6c04b48`  
-*(Replace `XXX` with your deployed contract address once deployed.)*
+
 
 ---
 
